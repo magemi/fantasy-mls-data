@@ -1,0 +1,26 @@
+{
+  "name": "fantasy-mls-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magemi/fantasy-mls-data.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magemi/fantasy-mls-data/issues"
+  },
+  "homepage": "https://github.com/magemi/fantasy-mls-data#readme",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3",
+    "vitest": "^1.1.3"
+  }
+}
