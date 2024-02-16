@@ -28,7 +28,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -23.43
         },
         "positions": [
             2
@@ -72,7 +74,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.44,
+            "pecent_change": -9.3
         },
         "positions": [
             2
@@ -117,7 +121,9 @@
             },
             "prices": {
                 "1": 9000000
-            }
+            },
+            "avg_points_2023": 8.13,
+            "pecent_change": -8.12
         },
         "positions": [
             3
@@ -161,7 +167,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -205,7 +213,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 1.88,
+            "pecent_change": 13.3
         },
         "positions": [
             2
@@ -249,7 +259,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.11,
+            "pecent_change": 13.63
         },
         "positions": [
             4
@@ -293,7 +305,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -337,7 +351,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3,
+            "pecent_change": 2.33
         },
         "positions": [
             4
@@ -382,7 +398,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -427,7 +445,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1.33,
+            "pecent_change": -9.02
         },
         "positions": [
             3
@@ -471,7 +491,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -515,7 +537,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.2,
+            "pecent_change": -10
         },
         "positions": [
             4
@@ -559,7 +583,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.64,
+            "pecent_change": -37.28
         },
         "positions": [
             3
@@ -604,7 +630,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -648,7 +676,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 4.57,
+            "pecent_change": -28.01
         },
         "positions": [
             2
@@ -692,7 +722,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 4,
+            "pecent_change": -41.75
         },
         "positions": [
             2
@@ -736,7 +768,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 1.14,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -781,7 +815,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": -700
         },
         "positions": [
             2
@@ -825,7 +861,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 5,
+            "pecent_change": -20
         },
         "positions": [
             2
@@ -870,7 +908,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -914,7 +954,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3,
+            "pecent_change": -22.67
         },
         "positions": [
             2
@@ -958,7 +1000,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.14,
+            "pecent_change": -13.69
         },
         "positions": [
             3
@@ -1002,7 +1046,9 @@
             },
             "prices": {
                 "1": 9000000
-            }
+            },
+            "avg_points_2023": 8.84,
+            "pecent_change": 2.15
         },
         "positions": [
             3
@@ -1046,7 +1092,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -1090,7 +1138,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.03,
+            "pecent_change": -1.49
         },
         "positions": [
             3
@@ -1135,7 +1185,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 2.71,
+            "pecent_change": 5.54
         },
         "positions": [
             4
@@ -1179,7 +1231,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -1224,7 +1278,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.96,
+            "pecent_change": -23.39
         },
         "positions": [
             3
@@ -1268,7 +1324,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.91,
+            "pecent_change": -30.8
         },
         "positions": [
             2
@@ -1312,7 +1370,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -1356,7 +1416,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -1400,7 +1462,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -1445,7 +1509,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -1489,7 +1555,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.91,
+            "pecent_change": -15.09
         },
         "positions": [
             4
@@ -1534,7 +1602,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.08,
+            "pecent_change": -24.04
         },
         "positions": [
             3
@@ -1578,7 +1648,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -1622,7 +1694,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1.83,
+            "pecent_change": 9.29
         },
         "positions": [
             4
@@ -1666,7 +1740,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 2.08,
+            "pecent_change": -5.77
         },
         "positions": [
             3
@@ -1711,7 +1787,9 @@
             },
             "prices": {
                 "1": 8500000
-            }
+            },
+            "avg_points_2023": 5.4,
+            "pecent_change": 12.96
         },
         "positions": [
             4
@@ -1755,7 +1833,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": -500
         },
         "positions": [
             2
@@ -1799,7 +1879,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.3,
+            "pecent_change": -22.56
         },
         "positions": [
             3
@@ -1843,7 +1925,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.09,
+            "pecent_change": 22.01
         },
         "positions": [
             3
@@ -1887,7 +1971,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -1931,7 +2017,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -1975,7 +2063,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 1.36,
+            "pecent_change": -36.76
         },
         "positions": [
             2
@@ -2019,7 +2109,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.1,
+            "pecent_change": -1.61
         },
         "positions": [
             3
@@ -2063,7 +2155,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 3.4,
+            "pecent_change": -8.82
         },
         "positions": [
             4
@@ -2107,7 +2201,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.52,
+            "pecent_change": 9.09
         },
         "positions": [
             4
@@ -2151,7 +2247,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.5,
+            "pecent_change": -14.4
         },
         "positions": [
             3
@@ -2196,7 +2294,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -2241,7 +2341,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2,
+            "pecent_change": -50
         },
         "positions": [
             2
@@ -2285,7 +2387,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -45.43
         },
         "positions": [
             2
@@ -2329,7 +2433,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2,
+            "pecent_change": -25
         },
         "positions": [
             3
@@ -2373,7 +2479,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -2417,7 +2525,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 3.27,
+            "pecent_change": 3.98
         },
         "positions": [
             4
@@ -2462,7 +2572,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.97,
+            "pecent_change": -11.84
         },
         "positions": [
             4
@@ -2506,7 +2618,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.62,
+            "pecent_change": 9.26
         },
         "positions": [
             3
@@ -2550,7 +2664,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.64,
+            "pecent_change": -17.58
         },
         "positions": [
             2
@@ -2594,7 +2710,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 1.89,
+            "pecent_change": -16.4
         },
         "positions": [
             3
@@ -2638,7 +2756,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 3.4,
+            "pecent_change": 11.76
         },
         "positions": [
             4
@@ -2682,7 +2802,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.7,
+            "pecent_change": -17.65
         },
         "positions": [
             3
@@ -2727,7 +2849,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -2771,7 +2895,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -2815,7 +2941,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 2.26,
+            "pecent_change": -2.21
         },
         "positions": [
             4
@@ -2859,7 +2987,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.79,
+            "pecent_change": -19.79
         },
         "positions": [
             1
@@ -2904,7 +3034,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 7.12,
+            "pecent_change": -18.26
         },
         "positions": [
             2
@@ -2948,7 +3080,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 1.67,
+            "pecent_change": 738.32
         },
         "positions": [
             2
@@ -2992,7 +3126,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.93,
+            "pecent_change": -21.88
         },
         "positions": [
             2
@@ -3036,7 +3172,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4,
+            "pecent_change": 3.25
         },
         "positions": [
             3
@@ -3080,7 +3218,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 5.25,
+            "pecent_change": 1.33
         },
         "positions": [
             3
@@ -3124,7 +3264,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -3169,7 +3311,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 2.56,
+            "pecent_change": -34.77
         },
         "positions": [
             2
@@ -3213,7 +3357,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 4,
+            "pecent_change": -35.75
         },
         "positions": [
             2
@@ -3257,7 +3403,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -3302,7 +3450,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.71,
+            "pecent_change": -100
         },
         "positions": [
             1
@@ -3346,7 +3496,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.21,
+            "pecent_change": -100
         },
         "positions": [
             3
@@ -3390,7 +3542,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.33,
+            "pecent_change": -100
         },
         "positions": [
             2
@@ -3434,7 +3588,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.47,
+            "pecent_change": -1.73
         },
         "positions": [
             3
@@ -3478,7 +3634,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 5.29,
+            "pecent_change": 32.33
         },
         "positions": [
             4
@@ -3522,7 +3680,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -3566,7 +3726,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.5,
+            "pecent_change": -10
         },
         "positions": [
             3
@@ -3610,7 +3772,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 4.1,
+            "pecent_change": 16.34
         },
         "positions": [
             4
@@ -3655,7 +3819,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 1.56,
+            "pecent_change": -2.56
         },
         "positions": [
             4
@@ -3699,7 +3865,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -3743,7 +3911,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             4
@@ -3787,7 +3957,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -3831,7 +4003,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 4.17,
+            "pecent_change": -100
         },
         "positions": [
             1
@@ -3875,7 +4049,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.55,
+            "pecent_change": -25.63
         },
         "positions": [
             2
@@ -3919,7 +4095,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.5,
+            "pecent_change": -22.22
         },
         "positions": [
             2
@@ -3963,7 +4141,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.7,
+            "pecent_change": -21.28
         },
         "positions": [
             1
@@ -4007,7 +4187,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.85,
+            "pecent_change": -45.97
         },
         "positions": [
             3
@@ -4051,7 +4233,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -4095,7 +4279,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -4139,7 +4325,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.12,
+            "pecent_change": 5.83
         },
         "positions": [
             3
@@ -4183,7 +4371,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -4228,7 +4418,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.67,
+            "pecent_change": -28.34
         },
         "positions": [
             1
@@ -4273,7 +4465,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -4317,7 +4511,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 5.9,
+            "pecent_change": -59.32
         },
         "positions": [
             1
@@ -4361,7 +4557,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -4405,7 +4603,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4.5,
+            "pecent_change": 2.89
         },
         "positions": [
             3
@@ -4449,7 +4649,9 @@
             },
             "prices": {
                 "1": 9000000
-            }
+            },
+            "avg_points_2023": 7.58,
+            "pecent_change": 4.22
         },
         "positions": [
             4
@@ -4493,7 +4695,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 1.2,
+            "pecent_change": 5.83
         },
         "positions": [
             4
@@ -4538,7 +4742,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 4.44,
+            "pecent_change": 27.7
         },
         "positions": [
             4
@@ -4582,7 +4788,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.97,
+            "pecent_change": -21.93
         },
         "positions": [
             2
@@ -4627,7 +4835,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4.15,
+            "pecent_change": -4.34
         },
         "positions": [
             4
@@ -4671,7 +4881,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.17,
+            "pecent_change": -19.18
         },
         "positions": [
             1
@@ -4715,7 +4927,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -4759,7 +4973,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.5,
+            "pecent_change": -34.89
         },
         "positions": [
             2
@@ -4803,7 +5019,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -4847,7 +5065,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -4891,7 +5111,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -4936,7 +5158,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 1.75,
+            "pecent_change": -25.14
         },
         "positions": [
             3
@@ -4980,7 +5204,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1.14,
+            "pecent_change": 63.16
         },
         "positions": [
             2
@@ -5025,7 +5251,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.5,
+            "pecent_change": -26.89
         },
         "positions": [
             2
@@ -5069,7 +5297,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.59,
+            "pecent_change": -28.69
         },
         "positions": [
             3
@@ -5113,7 +5343,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.2,
+            "pecent_change": -31.43
         },
         "positions": [
             2
@@ -5158,7 +5390,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 6,
+            "pecent_change": -27.33
         },
         "positions": [
             3
@@ -5202,7 +5436,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -5246,7 +5482,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.4,
+            "pecent_change": -23.53
         },
         "positions": [
             3
@@ -5290,7 +5528,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.04,
+            "pecent_change": -30.39
         },
         "positions": [
             3
@@ -5335,7 +5575,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.17,
+            "pecent_change": 25.81
         },
         "positions": [
             4
@@ -5379,7 +5621,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.11,
+            "pecent_change": -23.87
         },
         "positions": [
             2
@@ -5424,7 +5668,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 1.96,
+            "pecent_change": 19.9
         },
         "positions": [
             4
@@ -5468,7 +5714,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.94,
+            "pecent_change": -24.09
         },
         "positions": [
             1
@@ -5512,7 +5760,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -5556,7 +5806,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -5600,7 +5852,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 5.18,
+            "pecent_change": -40.35
         },
         "positions": [
             3
@@ -5644,7 +5898,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.37,
+            "pecent_change": -7.82
         },
         "positions": [
             2
@@ -5688,7 +5944,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.39,
+            "pecent_change": -18.29
         },
         "positions": [
             2
@@ -5732,7 +5990,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 1.72,
+            "pecent_change": 2.33
         },
         "positions": [
             4
@@ -5777,7 +6037,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 4.87,
+            "pecent_change": -20.53
         },
         "positions": [
             2
@@ -5821,7 +6083,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 1.33,
+            "pecent_change": -24.81
         },
         "positions": [
             4
@@ -5865,7 +6129,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.04,
+            "pecent_change": -10.29
         },
         "positions": [
             3
@@ -5909,7 +6175,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.41,
+            "pecent_change": -11.14
         },
         "positions": [
             4
@@ -5953,7 +6221,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.12,
+            "pecent_change": -25.73
         },
         "positions": [
             1
@@ -5997,7 +6267,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.03,
+            "pecent_change": -21.07
         },
         "positions": [
             2
@@ -6041,7 +6313,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 2.11,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -6085,7 +6359,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 4.04,
+            "pecent_change": 5.69
         },
         "positions": [
             4
@@ -6129,7 +6405,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.88,
+            "pecent_change": -17.78
         },
         "positions": [
             2
@@ -6174,7 +6452,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -6218,7 +6498,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.44,
+            "pecent_change": -29.94
         },
         "positions": [
             3
@@ -6263,7 +6545,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 1.88,
+            "pecent_change": -6.38
         },
         "positions": [
             3
@@ -6307,7 +6591,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 5.32,
+            "pecent_change": 4.32
         },
         "positions": [
             4
@@ -6351,7 +6637,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4.48,
+            "pecent_change": -11.61
         },
         "positions": [
             3
@@ -6395,7 +6683,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -6439,7 +6729,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -6483,7 +6775,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.83,
+            "pecent_change": -28.2
         },
         "positions": [
             3
@@ -6527,7 +6821,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 2,
+            "pecent_change": -50
         },
         "positions": [
             3
@@ -6571,7 +6867,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.88,
+            "pecent_change": -20.49
         },
         "positions": [
             2
@@ -6615,7 +6913,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.73,
+            "pecent_change": -3.3
         },
         "positions": [
             2
@@ -6659,7 +6959,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -6704,7 +7006,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.7,
+            "pecent_change": -22.55
         },
         "positions": [
             1
@@ -6748,7 +7052,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             3
@@ -6793,7 +7099,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.39,
+            "pecent_change": -20.06
         },
         "positions": [
             3
@@ -6837,7 +7145,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 5.3,
+            "pecent_change": 7.55
         },
         "positions": [
             4
@@ -6882,7 +7192,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 2.76,
+            "pecent_change": -3.26
         },
         "positions": [
             3
@@ -6926,7 +7238,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4,
+            "pecent_change": -38.5
         },
         "positions": [
             3
@@ -6970,7 +7284,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -7014,7 +7330,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 5.46,
+            "pecent_change": -16.85
         },
         "positions": [
             3
@@ -7058,7 +7376,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             3
@@ -7102,7 +7422,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -7146,7 +7468,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 5.09,
+            "pecent_change": -20.83
         },
         "positions": [
             1
@@ -7190,7 +7514,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.5,
+            "pecent_change": -233.33
         },
         "positions": [
             1
@@ -7234,7 +7560,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1.33,
+            "pecent_change": -150.38
         },
         "positions": [
             2
@@ -7278,7 +7606,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -7322,7 +7652,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.21,
+            "pecent_change": -2.18
         },
         "positions": [
             3
@@ -7366,7 +7698,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -7410,7 +7744,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 3.35,
+            "pecent_change": 4.48
         },
         "positions": [
             4
@@ -7454,7 +7790,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.83,
+            "pecent_change": -8.28
         },
         "positions": [
             2
@@ -7499,7 +7837,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.97,
+            "pecent_change": -16.37
         },
         "positions": [
             1
@@ -7543,7 +7883,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.17,
+            "pecent_change": -58.04
         },
         "positions": [
             2
@@ -7587,7 +7929,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -7631,7 +7975,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             4
@@ -7675,7 +8021,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             3
@@ -7719,7 +8067,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 3.11,
+            "pecent_change": -12.86
         },
         "positions": [
             3
@@ -7763,7 +8113,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.71,
+            "pecent_change": -24.2
         },
         "positions": [
             1
@@ -7807,7 +8159,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             1
@@ -7851,7 +8205,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 3.93,
+            "pecent_change": -46.31
         },
         "positions": [
             3
@@ -7896,7 +8252,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -7940,7 +8298,9 @@
             },
             "prices": {
                 "1": 8500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -7984,7 +8344,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.31,
+            "pecent_change": -31.79
         },
         "positions": [
             2
@@ -8028,7 +8390,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 5.81,
+            "pecent_change": 7.75
         },
         "positions": [
             3
@@ -8072,7 +8436,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -8116,7 +8482,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 1.96,
+            "pecent_change": -2.04
         },
         "positions": [
             4
@@ -8160,7 +8528,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -8204,7 +8574,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -28.57
         },
         "positions": [
             2
@@ -8249,7 +8621,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 2.71,
+            "pecent_change": -15.5
         },
         "positions": [
             3
@@ -8293,7 +8667,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -8337,7 +8713,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.5,
+            "pecent_change": -10
         },
         "positions": [
             3
@@ -8381,7 +8759,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -8425,7 +8805,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -8469,7 +8851,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.38,
+            "pecent_change": -26.71
         },
         "positions": [
             3
@@ -8513,7 +8897,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.2,
+            "pecent_change": -28.57
         },
         "positions": [
             3
@@ -8557,7 +8943,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             4
@@ -8601,7 +8989,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.59,
+            "pecent_change": -30.72
         },
         "positions": [
             1
@@ -8645,7 +9035,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 2.59,
+            "pecent_change": -13.9
         },
         "positions": [
             2
@@ -8689,7 +9081,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.13,
+            "pecent_change": -4.15
         },
         "positions": [
             3
@@ -8734,7 +9128,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.2,
+            "pecent_change": -19.76
         },
         "positions": [
             3
@@ -8778,7 +9174,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -8823,7 +9221,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -8867,7 +9267,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -8911,7 +9313,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 1.2,
+            "pecent_change": 16.67
         },
         "positions": [
             4
@@ -8955,7 +9359,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -8999,7 +9405,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -9043,7 +9451,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -9088,7 +9498,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.5,
+            "pecent_change": 20
         },
         "positions": [
             3
@@ -9132,7 +9544,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 1.56,
+            "pecent_change": 10.26
         },
         "positions": [
             4
@@ -9176,7 +9590,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.32,
+            "pecent_change": -15.97
         },
         "positions": [
             2
@@ -9220,7 +9636,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 4,
+            "pecent_change": -325
         },
         "positions": [
             1
@@ -9264,7 +9682,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 5.12,
+            "pecent_change": -100
         },
         "positions": [
             2
@@ -9308,7 +9728,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 5.13,
+            "pecent_change": -19.49
         },
         "positions": [
             2
@@ -9352,7 +9774,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.85,
+            "pecent_change": 1.56
         },
         "positions": [
             3
@@ -9396,7 +9820,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -9440,7 +9866,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 5.93,
+            "pecent_change": 2.36
         },
         "positions": [
             3
@@ -9484,7 +9912,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 2.28,
+            "pecent_change": -21.93
         },
         "positions": [
             3
@@ -9528,7 +9958,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 2.91,
+            "pecent_change": -4.12
         },
         "positions": [
             3
@@ -9573,7 +10005,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.92,
+            "pecent_change": -30.61
         },
         "positions": [
             2
@@ -9617,7 +10051,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.55,
+            "pecent_change": -22.82
         },
         "positions": [
             3
@@ -9661,7 +10097,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             2
@@ -9705,7 +10143,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.26,
+            "pecent_change": -2.58
         },
         "positions": [
             4
@@ -9750,7 +10190,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.57,
+            "pecent_change": -26.89
         },
         "positions": [
             3
@@ -9794,7 +10236,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             2
@@ -9838,7 +10282,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.59,
+            "pecent_change": -33.7
         },
         "positions": [
             2
@@ -9882,7 +10328,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.6,
+            "pecent_change": -50
         },
         "positions": [
             1
@@ -9927,7 +10375,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -9971,7 +10421,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.44,
+            "pecent_change": -20.5
         },
         "positions": [
             2
@@ -10015,7 +10467,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -10060,7 +10514,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 3.86,
+            "pecent_change": -20.47
         },
         "positions": [
             2
@@ -10104,7 +10560,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 1.97,
+            "pecent_change": 8.12
         },
         "positions": [
             4
@@ -10148,7 +10606,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -10192,7 +10652,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 4.36,
+            "pecent_change": -18.81
         },
         "positions": [
             2
@@ -10236,7 +10698,9 @@
             },
             "prices": {
                 "1": 8500000
-            }
+            },
+            "avg_points_2023": 7.38,
+            "pecent_change": -7.59
         },
         "positions": [
             3
@@ -10280,7 +10744,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.05,
+            "pecent_change": -4.88
         },
         "positions": [
             3
@@ -10325,7 +10791,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 3.41,
+            "pecent_change": -11.14
         },
         "positions": [
             3
@@ -10369,7 +10837,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.57,
+            "pecent_change": -5.6
         },
         "positions": [
             2
@@ -10413,7 +10883,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4.33,
+            "pecent_change": 88.68
         },
         "positions": [
             3
@@ -10457,7 +10929,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.7,
+            "pecent_change": -27.03
         },
         "positions": [
             2
@@ -10501,7 +10975,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -10545,7 +11021,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.23,
+            "pecent_change": -10.22
         },
         "positions": [
             2
@@ -10589,7 +11067,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.29,
+            "pecent_change": 17.33
         },
         "positions": [
             4
@@ -10633,7 +11113,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.6,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -10677,7 +11159,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -10721,7 +11205,9 @@
             },
             "prices": {
                 "1": 8500000
-            }
+            },
+            "avg_points_2023": 5.8,
+            "pecent_change": 15.86
         },
         "positions": [
             4
@@ -10765,7 +11251,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 2.79,
+            "pecent_change": -5.02
         },
         "positions": [
             3
@@ -10809,7 +11297,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.92,
+            "pecent_change": -20.55
         },
         "positions": [
             3
@@ -10853,7 +11343,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1.8,
+            "pecent_change": -16.67
         },
         "positions": [
             3
@@ -10897,7 +11389,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -10941,7 +11435,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -10985,7 +11481,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1.33,
+            "pecent_change": -24.81
         },
         "positions": [
             3
@@ -11029,7 +11527,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 2,
+            "pecent_change": 20
         },
         "positions": [
             4
@@ -11073,7 +11573,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.57,
+            "pecent_change": -20.35
         },
         "positions": [
             2
@@ -11118,7 +11620,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -11162,7 +11666,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.29,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -11207,7 +11713,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             2
@@ -11251,7 +11759,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 2.42,
+            "pecent_change": 10.33
         },
         "positions": [
             3
@@ -11295,7 +11805,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.18,
+            "pecent_change": -22.96
         },
         "positions": [
             2
@@ -11339,7 +11851,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -11383,7 +11897,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             3
@@ -11427,7 +11943,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": -100
         },
         "positions": [
             2
@@ -11471,7 +11989,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 6.1,
+            "pecent_change": -31.15
         },
         "positions": [
             1
@@ -11515,7 +12035,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.84,
+            "pecent_change": -10.33
         },
         "positions": [
             1
@@ -11559,7 +12081,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -11603,7 +12127,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -11648,7 +12174,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": -300
         },
         "positions": [
             2
@@ -11693,7 +12221,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 1.89,
+            "pecent_change": -3.17
         },
         "positions": [
             4
@@ -11737,7 +12267,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -11781,7 +12313,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.76,
+            "pecent_change": -17.86
         },
         "positions": [
             2
@@ -11825,7 +12359,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.73,
+            "pecent_change": -16.91
         },
         "positions": [
             1
@@ -11869,7 +12405,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.4,
+            "pecent_change": -100
         },
         "positions": [
             2
@@ -11913,7 +12451,9 @@
             },
             "prices": {
                 "1": 8500000
-            }
+            },
+            "avg_points_2023": 6.91,
+            "pecent_change": -2.32
         },
         "positions": [
             3
@@ -11957,7 +12497,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -12001,7 +12543,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 6.41,
+            "pecent_change": -2.5
         },
         "positions": [
             3
@@ -12045,7 +12589,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.33,
+            "pecent_change": -100
         },
         "positions": [
             2
@@ -12089,7 +12635,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 5.37,
+            "pecent_change": 4.1
         },
         "positions": [
             4
@@ -12133,7 +12681,9 @@
             },
             "prices": {
                 "1": 9000000
-            }
+            },
+            "avg_points_2023": 7.94,
+            "pecent_change": -4.91
         },
         "positions": [
             3
@@ -12177,7 +12727,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.13,
+            "pecent_change": -20.13
         },
         "positions": [
             3
@@ -12221,7 +12773,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.35,
+            "pecent_change": -31.64
         },
         "positions": [
             3
@@ -12265,7 +12819,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -12310,7 +12866,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.63,
+            "pecent_change": -21.14
         },
         "positions": [
             2
@@ -12354,7 +12912,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.65,
+            "pecent_change": -22.37
         },
         "positions": [
             2
@@ -12398,7 +12958,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -12443,7 +13005,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -24.57
         },
         "positions": [
             3
@@ -12488,7 +13052,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 2.32,
+            "pecent_change": -17.24
         },
         "positions": [
             4
@@ -12532,7 +13098,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.75,
+            "pecent_change": 33.33
         },
         "positions": [
             3
@@ -12577,7 +13145,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -12621,7 +13191,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 6.15,
+            "pecent_change": -18.7
         },
         "positions": [
             2
@@ -12666,7 +13238,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 2.71,
+            "pecent_change": 10.7
         },
         "positions": [
             3
@@ -12710,7 +13284,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 1.89,
+            "pecent_change": -3.17
         },
         "positions": [
             4
@@ -12754,7 +13330,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.64,
+            "pecent_change": -40.53
         },
         "positions": [
             2
@@ -12798,7 +13376,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.82,
+            "pecent_change": -18.59
         },
         "positions": [
             2
@@ -12842,7 +13422,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -12886,7 +13468,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 4.25,
+            "pecent_change": -42.12
         },
         "positions": [
             2
@@ -12930,7 +13514,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.56,
+            "pecent_change": -100
         },
         "positions": [
             3
@@ -12974,7 +13560,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 5.76,
+            "pecent_change": -18.06
         },
         "positions": [
             2
@@ -13018,7 +13606,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.11,
+            "pecent_change": -32.15
         },
         "positions": [
             3
@@ -13062,7 +13652,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.22,
+            "pecent_change": -12.56
         },
         "positions": [
             3
@@ -13106,7 +13698,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.28,
+            "pecent_change": -27.57
         },
         "positions": [
             2
@@ -13150,7 +13744,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -13194,7 +13790,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.21,
+            "pecent_change": -8.72
         },
         "positions": [
             3
@@ -13238,7 +13836,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -13282,7 +13882,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -13327,7 +13929,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.52,
+            "pecent_change": -15.71
         },
         "positions": [
             2
@@ -13371,7 +13975,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.66,
+            "pecent_change": -10.38
         },
         "positions": [
             3
@@ -13415,7 +14021,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -13460,7 +14068,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -13504,7 +14114,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -13548,7 +14160,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.72,
+            "pecent_change": -20.97
         },
         "positions": [
             2
@@ -13593,7 +14207,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 2.5,
+            "pecent_change": -46.8
         },
         "positions": [
             2
@@ -13637,7 +14253,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.17,
+            "pecent_change": 78.86
         },
         "positions": [
             3
@@ -13682,7 +14300,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.74,
+            "pecent_change": 14.23
         },
         "positions": [
             2
@@ -13726,7 +14346,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.76,
+            "pecent_change": -18.09
         },
         "positions": [
             2
@@ -13770,7 +14392,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 2.5,
+            "pecent_change": 2.4
         },
         "positions": [
             3
@@ -13814,7 +14438,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             3
@@ -13858,7 +14484,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             2
@@ -13902,7 +14530,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.85,
+            "pecent_change": -23.38
         },
         "positions": [
             2
@@ -13946,7 +14576,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -13990,7 +14622,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.06,
+            "pecent_change": -9.15
         },
         "positions": [
             3
@@ -14034,7 +14668,9 @@
             },
             "prices": {
                 "1": 9000000
-            }
+            },
+            "avg_points_2023": 7.93,
+            "pecent_change": 19.55
         },
         "positions": [
             4
@@ -14078,7 +14714,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 1.82,
+            "pecent_change": 4.95
         },
         "positions": [
             3
@@ -14122,7 +14760,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.8,
+            "pecent_change": -47.37
         },
         "positions": [
             2
@@ -14166,7 +14806,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.26,
+            "pecent_change": -17.14
         },
         "positions": [
             2
@@ -14210,7 +14852,9 @@
             },
             "prices": {
                 "1": 8500000
-            }
+            },
+            "avg_points_2023": 7.33,
+            "pecent_change": -5.46
         },
         "positions": [
             3
@@ -14255,7 +14899,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 2.09,
+            "pecent_change": -8.61
         },
         "positions": [
             2
@@ -14299,7 +14945,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 4.11,
+            "pecent_change": -26.03
         },
         "positions": [
             2
@@ -14343,7 +14991,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -14387,7 +15037,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.97,
+            "pecent_change": 2.01
         },
         "positions": [
             4
@@ -14431,7 +15083,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.81,
+            "pecent_change": -17.46
         },
         "positions": [
             2
@@ -14476,7 +15130,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.5,
+            "pecent_change": -133.33
         },
         "positions": [
             2
@@ -14520,7 +15176,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1.43,
+            "pecent_change": 9.79
         },
         "positions": [
             3
@@ -14564,7 +15222,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": -700
         },
         "positions": [
             2
@@ -14608,7 +15268,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.79,
+            "pecent_change": -31.18
         },
         "positions": [
             3
@@ -14652,7 +15314,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 4.07,
+            "pecent_change": -22.85
         },
         "positions": [
             2
@@ -14696,7 +15360,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 2.63,
+            "pecent_change": 33.08
         },
         "positions": [
             4
@@ -14740,7 +15406,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.72,
+            "pecent_change": 10.29
         },
         "positions": [
             4
@@ -14784,7 +15452,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 2.25,
+            "pecent_change": 11.11
         },
         "positions": [
             4
@@ -14828,7 +15498,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 2.82,
+            "pecent_change": -29.08
         },
         "positions": [
             2
@@ -14872,7 +15544,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0.83,
+            "pecent_change": -19.28
         },
         "positions": [
             2
@@ -14916,7 +15590,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.33,
+            "pecent_change": -32.43
         },
         "positions": [
             1
@@ -14960,7 +15636,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4,
+            "pecent_change": -36
         },
         "positions": [
             3
@@ -15004,7 +15682,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -15048,7 +15728,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 5.4,
+            "pecent_change": 5.56
         },
         "positions": [
             4
@@ -15092,7 +15774,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3,
+            "pecent_change": -158.33
         },
         "positions": [
             1
@@ -15136,7 +15820,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.47,
+            "pecent_change": -28.82
         },
         "positions": [
             1
@@ -15180,7 +15866,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -15224,7 +15912,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.04,
+            "pecent_change": -7.89
         },
         "positions": [
             3
@@ -15268,7 +15958,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 3,
+            "pecent_change": -133.33
         },
         "positions": [
             1
@@ -15313,7 +16005,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 1.5,
+            "pecent_change": -6.67
         },
         "positions": [
             4
@@ -15357,7 +16051,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.38,
+            "pecent_change": -29.45
         },
         "positions": [
             2
@@ -15401,7 +16097,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 2.76,
+            "pecent_change": -11.96
         },
         "positions": [
             3
@@ -15445,7 +16143,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 60
         },
         "positions": [
             2
@@ -15489,7 +16189,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 2.13,
+            "pecent_change": -2.82
         },
         "positions": [
             4
@@ -15533,7 +16235,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -15577,7 +16281,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 9
         },
         "positions": [
             3
@@ -15621,7 +16327,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -15665,7 +16373,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": -950
         },
         "positions": [
             2
@@ -15710,7 +16420,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -15754,7 +16466,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -15798,7 +16512,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.5,
+            "pecent_change": -17.78
         },
         "positions": [
             1
@@ -15842,7 +16558,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.32,
+            "pecent_change": -18.8
         },
         "positions": [
             2
@@ -15886,7 +16604,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 2.33,
+            "pecent_change": -22.32
         },
         "positions": [
             3
@@ -15931,7 +16651,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -15975,7 +16697,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -16019,7 +16743,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -16064,7 +16790,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 2.68,
+            "pecent_change": 3.36
         },
         "positions": [
             4
@@ -16108,7 +16836,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.63,
+            "pecent_change": 11.79
         },
         "positions": [
             4
@@ -16153,7 +16883,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 2.07,
+            "pecent_change": 11.11
         },
         "positions": [
             4
@@ -16197,7 +16929,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 2.85,
+            "pecent_change": -5.26
         },
         "positions": [
             2
@@ -16241,7 +16975,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.63,
+            "pecent_change": -22.68
         },
         "positions": [
             1
@@ -16285,7 +17021,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.44,
+            "pecent_change": 5.52
         },
         "positions": [
             4
@@ -16330,7 +17068,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3,
+            "pecent_change": -400
         },
         "positions": [
             1
@@ -16374,7 +17114,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -16418,7 +17160,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4.93,
+            "pecent_change": -26.98
         },
         "positions": [
             3
@@ -16463,7 +17207,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             4
@@ -16507,7 +17253,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             2
@@ -16552,7 +17300,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 2.43,
+            "pecent_change": -35.39
         },
         "positions": [
             2
@@ -16596,7 +17346,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.87,
+            "pecent_change": 4.53
         },
         "positions": [
             4
@@ -16640,7 +17392,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 5.88,
+            "pecent_change": -19.22
         },
         "positions": [
             2
@@ -16684,7 +17438,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -16728,7 +17484,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             3
@@ -16772,7 +17530,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 1.38,
+            "pecent_change": 8.7
         },
         "positions": [
             4
@@ -16816,7 +17576,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -16860,7 +17622,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -16904,7 +17668,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 5.31,
+            "pecent_change": -5.27
         },
         "positions": [
             3
@@ -16948,7 +17714,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.33,
+            "pecent_change": -46.9
         },
         "positions": [
             2
@@ -16992,7 +17760,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1.5,
+            "pecent_change": -100
         },
         "positions": [
             2
@@ -17036,7 +17806,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 2.26,
+            "pecent_change": 9.73
         },
         "positions": [
             3
@@ -17080,7 +17852,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 2.17,
+            "pecent_change": 38.25
         },
         "positions": [
             3
@@ -17124,7 +17898,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 2.65,
+            "pecent_change": 3.02
         },
         "positions": [
             3
@@ -17168,7 +17944,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -17212,7 +17990,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.15,
+            "pecent_change": -9.52
         },
         "positions": [
             3
@@ -17257,7 +18037,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.04,
+            "pecent_change": 5.88
         },
         "positions": [
             3
@@ -17301,7 +18083,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.87,
+            "pecent_change": -22.65
         },
         "positions": [
             2
@@ -17346,7 +18130,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 100
         },
         "positions": [
             3
@@ -17390,7 +18176,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.62,
+            "pecent_change": -7.25
         },
         "positions": [
             3
@@ -17434,7 +18222,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -17478,7 +18268,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -17522,7 +18314,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 2.06,
+            "pecent_change": 4.85
         },
         "positions": [
             4
@@ -17566,7 +18360,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.2,
+            "pecent_change": -13.64
         },
         "positions": [
             3
@@ -17611,7 +18407,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 2.8,
+            "pecent_change": -5.36
         },
         "positions": [
             3
@@ -17655,7 +18453,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -17699,7 +18499,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3,
+            "pecent_change": -19.67
         },
         "positions": [
             2
@@ -17743,7 +18545,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 6.52,
+            "pecent_change": -13.04
         },
         "positions": [
             2
@@ -17787,7 +18591,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 1.84,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -17831,7 +18637,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.63,
+            "pecent_change": -9.82
         },
         "positions": [
             3
@@ -17875,7 +18683,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.64,
+            "pecent_change": -25
         },
         "positions": [
             2
@@ -17919,7 +18729,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.62,
+            "pecent_change": -51.38
         },
         "positions": [
             2
@@ -17963,7 +18775,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 2.83,
+            "pecent_change": 2.12
         },
         "positions": [
             3
@@ -18008,7 +18822,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -18052,7 +18868,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -40.29
         },
         "positions": [
             3
@@ -18096,7 +18914,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.1,
+            "pecent_change": 2.44
         },
         "positions": [
             3
@@ -18140,7 +18960,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.64,
+            "pecent_change": -9.91
         },
         "positions": [
             3
@@ -18184,7 +19006,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.35,
+            "pecent_change": -32.84
         },
         "positions": [
             3
@@ -18228,7 +19052,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -18272,7 +19098,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.62,
+            "pecent_change": -26.84
         },
         "positions": [
             2
@@ -18316,7 +19144,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 1.69,
+            "pecent_change": 11.24
         },
         "positions": [
             3
@@ -18361,7 +19191,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -18406,7 +19238,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.94,
+            "pecent_change": -9.92
         },
         "positions": [
             2
@@ -18450,7 +19284,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 5.47,
+            "pecent_change": -37.66
         },
         "positions": [
             2
@@ -18494,7 +19330,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -18538,7 +19376,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -18583,7 +19423,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.68,
+            "pecent_change": -3.53
         },
         "positions": [
             3
@@ -18627,7 +19469,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 3,
+            "pecent_change": -433.33
         },
         "positions": [
             1
@@ -18671,7 +19515,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -18715,7 +19561,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.9,
+            "pecent_change": -44.74
         },
         "positions": [
             2
@@ -18759,7 +19607,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.35,
+            "pecent_change": -46.27
         },
         "positions": [
             2
@@ -18804,7 +19654,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.41,
+            "pecent_change": -28.1
         },
         "positions": [
             1
@@ -18849,7 +19701,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.76,
+            "pecent_change": -34.31
         },
         "positions": [
             2
@@ -18894,7 +19748,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 5.55,
+            "pecent_change": -14.05
         },
         "positions": [
             2
@@ -18938,7 +19794,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -18982,7 +19840,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -19026,7 +19886,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 4.81,
+            "pecent_change": -28.48
         },
         "positions": [
             2
@@ -19070,7 +19932,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 4.46,
+            "pecent_change": -32.74
         },
         "positions": [
             1
@@ -19115,7 +19979,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -19159,7 +20025,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.48,
+            "pecent_change": -31.32
         },
         "positions": [
             2
@@ -19203,7 +20071,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 2.32,
+            "pecent_change": -25
         },
         "positions": [
             2
@@ -19247,7 +20117,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 3.86,
+            "pecent_change": -44.56
         },
         "positions": [
             1
@@ -19291,7 +20163,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": -200
         },
         "positions": [
             2
@@ -19335,7 +20209,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 1.91,
+            "pecent_change": -16.75
         },
         "positions": [
             2
@@ -19380,7 +20256,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -19424,7 +20302,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 3.26,
+            "pecent_change": -100
         },
         "positions": [
             4
@@ -19468,7 +20348,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -19512,7 +20394,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4.25,
+            "pecent_change": -35.29
         },
         "positions": [
             3
@@ -19557,7 +20441,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -19601,7 +20487,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 1.56,
+            "pecent_change": -11.54
         },
         "positions": [
             3
@@ -19645,7 +20533,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.8,
+            "pecent_change": -13.16
         },
         "positions": [
             2
@@ -19689,7 +20579,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.54,
+            "pecent_change": -21.48
         },
         "positions": [
             2
@@ -19733,7 +20625,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4.1,
+            "pecent_change": -39.51
         },
         "positions": [
             3
@@ -19777,7 +20671,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.13,
+            "pecent_change": -8.72
         },
         "positions": [
             3
@@ -19821,7 +20717,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.4,
+            "pecent_change": -70.59
         },
         "positions": [
             1
@@ -19866,7 +20764,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.53,
+            "pecent_change": -33.6
         },
         "positions": [
             2
@@ -19910,7 +20810,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -19954,7 +20856,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.71,
+            "pecent_change": -16.97
         },
         "positions": [
             2
@@ -19998,7 +20902,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.1,
+            "pecent_change": 18.18
         },
         "positions": [
             4
@@ -20043,7 +20949,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.52,
+            "pecent_change": -20.35
         },
         "positions": [
             1
@@ -20087,7 +20995,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.58,
+            "pecent_change": -37.71
         },
         "positions": [
             3
@@ -20131,7 +21041,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             2
@@ -20175,7 +21087,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             2
@@ -20219,7 +21133,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.3,
+            "pecent_change": -10.3
         },
         "positions": [
             3
@@ -20263,7 +21179,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -20307,7 +21225,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.14,
+            "pecent_change": 10.39
         },
         "positions": [
             4
@@ -20351,7 +21271,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -20395,7 +21317,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.44,
+            "pecent_change": -47.38
         },
         "positions": [
             2
@@ -20440,7 +21364,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -20484,7 +21410,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.44,
+            "pecent_change": -16.89
         },
         "positions": [
             1
@@ -20529,7 +21457,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 2.59,
+            "pecent_change": 12.36
         },
         "positions": [
             4
@@ -20573,7 +21503,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -20617,7 +21549,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.62,
+            "pecent_change": -19.34
         },
         "positions": [
             2
@@ -20661,7 +21595,9 @@
             },
             "prices": {
                 "1": 10000000
-            }
+            },
+            "avg_points_2023": 4.33,
+            "pecent_change": 34.64
         },
         "positions": [
             4
@@ -20706,7 +21642,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 5.37,
+            "pecent_change": -20.67
         },
         "positions": [
             2
@@ -20751,7 +21689,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -20795,7 +21735,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -20839,7 +21781,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3,
+            "pecent_change": -24
         },
         "positions": [
             2
@@ -20883,7 +21827,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.39,
+            "pecent_change": -24.19
         },
         "positions": [
             2
@@ -20927,7 +21873,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             2
@@ -20971,7 +21919,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.36,
+            "pecent_change": -22.94
         },
         "positions": [
             1
@@ -21016,7 +21966,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -21060,7 +22012,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 5.16,
+            "pecent_change": -23.64
         },
         "positions": [
             3
@@ -21105,7 +22059,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -21149,7 +22105,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             3
@@ -21194,7 +22152,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.97,
+            "pecent_change": -17.51
         },
         "positions": [
             2
@@ -21238,7 +22198,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4.36,
+            "pecent_change": 4.82
         },
         "positions": [
             4
@@ -21282,7 +22244,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.05,
+            "pecent_change": -15.61
         },
         "positions": [
             3
@@ -21326,7 +22290,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -21370,7 +22336,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             3
@@ -21414,7 +22382,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": 28.57
         },
         "positions": [
             3
@@ -21458,7 +22428,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 5.12,
+            "pecent_change": -19.53
         },
         "positions": [
             2
@@ -21502,7 +22474,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4.55,
+            "pecent_change": -15.6
         },
         "positions": [
             3
@@ -21547,7 +22521,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 2.2,
+            "pecent_change": 9.09
         },
         "positions": [
             3
@@ -21591,7 +22567,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 6.07,
+            "pecent_change": -28.01
         },
         "positions": [
             3
@@ -21635,7 +22613,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.38,
+            "pecent_change": 3.65
         },
         "positions": [
             4
@@ -21679,7 +22659,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.36,
+            "pecent_change": -14.91
         },
         "positions": [
             2
@@ -21723,7 +22705,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.33,
+            "pecent_change": 3.3
         },
         "positions": [
             3
@@ -21767,7 +22751,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4.46,
+            "pecent_change": -18.83
         },
         "positions": [
             3
@@ -21811,7 +22797,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.4,
+            "pecent_change": -38.64
         },
         "positions": [
             4
@@ -21856,7 +22844,9 @@
             },
             "prices": {
                 "1": 8500000
-            }
+            },
+            "avg_points_2023": 6.67,
+            "pecent_change": 9
         },
         "positions": [
             3
@@ -21900,7 +22890,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": -86
         },
         "positions": [
             2
@@ -21944,7 +22936,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -21988,7 +22982,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.84,
+            "pecent_change": -30.21
         },
         "positions": [
             2
@@ -22033,7 +23029,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.61,
+            "pecent_change": -22.99
         },
         "positions": [
             2
@@ -22077,7 +23075,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             4
@@ -22121,7 +23121,9 @@
             },
             "prices": {
                 "1": 8500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -22165,7 +23167,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -22210,7 +23214,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.74,
+            "pecent_change": -24.82
         },
         "positions": [
             3
@@ -22254,7 +23260,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -52
         },
         "positions": [
             3
@@ -22298,7 +23306,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.97,
+            "pecent_change": -6.55
         },
         "positions": [
             3
@@ -22342,7 +23352,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4.44,
+            "pecent_change": 2.7
         },
         "positions": [
             4
@@ -22386,7 +23398,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.81,
+            "pecent_change": -28.83
         },
         "positions": [
             3
@@ -22430,7 +23444,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 2.89,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -22474,7 +23490,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 4.52,
+            "pecent_change": -31.86
         },
         "positions": [
             2
@@ -22518,7 +23536,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.43,
+            "pecent_change": -23.62
         },
         "positions": [
             2
@@ -22563,7 +23583,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.69,
+            "pecent_change": -24.09
         },
         "positions": [
             2
@@ -22608,7 +23630,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 2.74,
+            "pecent_change": -19.34
         },
         "positions": [
             2
@@ -22653,7 +23677,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.06,
+            "pecent_change": -10.1
         },
         "positions": [
             2
@@ -22697,7 +23723,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -22741,7 +23769,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.71,
+            "pecent_change": -5.66
         },
         "positions": [
             2
@@ -22786,7 +23816,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.44,
+            "pecent_change": -32.85
         },
         "positions": [
             2
@@ -22830,7 +23862,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.29,
+            "pecent_change": -32.83
         },
         "positions": [
             2
@@ -22874,7 +23908,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0.91,
+            "pecent_change": -90.11
         },
         "positions": [
             2
@@ -22918,7 +23954,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -22962,7 +24000,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1.13,
+            "pecent_change": -11.5
         },
         "positions": [
             3
@@ -23007,7 +24047,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             4
@@ -23051,7 +24093,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -23095,7 +24139,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.88,
+            "pecent_change": -51.55
         },
         "positions": [
             2
@@ -23139,7 +24185,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": -0.5,
+            "pecent_change": 400
         },
         "positions": [
             2
@@ -23183,7 +24231,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -23227,7 +24277,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 1.6,
+            "pecent_change": 3.12
         },
         "positions": [
             4
@@ -23272,7 +24324,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4.9,
+            "pecent_change": -40.2
         },
         "positions": [
             3
@@ -23316,7 +24370,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -23361,7 +24417,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -23405,7 +24463,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 2.36,
+            "pecent_change": -78.81
         },
         "positions": [
             2
@@ -23449,7 +24509,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.05,
+            "pecent_change": -31.15
         },
         "positions": [
             2
@@ -23493,7 +24555,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.67,
+            "pecent_change": -3
         },
         "positions": [
             3
@@ -23537,7 +24601,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -23581,7 +24647,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             3
@@ -23625,7 +24693,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -23670,7 +24740,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             2
@@ -23714,7 +24786,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -23759,7 +24833,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.43,
+            "pecent_change": -20.41
         },
         "positions": [
             3
@@ -23803,7 +24879,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.94,
+            "pecent_change": 0.76
         },
         "positions": [
             3
@@ -23847,7 +24925,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             1
@@ -23891,7 +24971,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.3,
+            "pecent_change": 18.18
         },
         "positions": [
             3
@@ -23935,7 +25017,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -23979,7 +25063,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 3.45,
+            "pecent_change": -73.62
         },
         "positions": [
             2
@@ -24023,7 +25109,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.43,
+            "pecent_change": 4.08
         },
         "positions": [
             4
@@ -24067,7 +25155,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -24112,7 +25202,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1.25,
+            "pecent_change": -20
         },
         "positions": [
             4
@@ -24156,7 +25248,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             3
@@ -24200,7 +25294,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 5.81,
+            "pecent_change": -17.21
         },
         "positions": [
             3
@@ -24244,7 +25340,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.17,
+            "pecent_change": 5.07
         },
         "positions": [
             3
@@ -24289,7 +25387,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.92,
+            "pecent_change": -18.11
         },
         "positions": [
             2
@@ -24333,7 +25433,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 1.4,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -24378,7 +25480,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -24422,7 +25526,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.75,
+            "pecent_change": -71.43
         },
         "positions": [
             2
@@ -24466,7 +25572,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.29,
+            "pecent_change": -15.15
         },
         "positions": [
             1
@@ -24511,7 +25619,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -24555,7 +25665,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.47,
+            "pecent_change": -13.54
         },
         "positions": [
             2
@@ -24599,7 +25711,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -24644,7 +25758,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 6.5,
+            "pecent_change": -61.54
         },
         "positions": [
             1
@@ -24688,7 +25804,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -200
         },
         "positions": [
             1
@@ -24732,7 +25850,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.48,
+            "pecent_change": -20.11
         },
         "positions": [
             3
@@ -24776,7 +25896,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -24820,7 +25942,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             2
@@ -24864,7 +25988,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.54,
+            "pecent_change": -21.3
         },
         "positions": [
             2
@@ -24908,7 +26034,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.22,
+            "pecent_change": -15.64
         },
         "positions": [
             3
@@ -24952,7 +26080,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -24996,7 +26126,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             2
@@ -25040,7 +26172,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -25084,7 +26218,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -25128,7 +26264,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.67,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -25172,7 +26310,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.47,
+            "pecent_change": -24.38
         },
         "positions": [
             3
@@ -25217,7 +26357,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.8,
+            "pecent_change": 22.22
         },
         "positions": [
             3
@@ -25261,7 +26403,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 20
         },
         "positions": [
             4
@@ -25305,7 +26449,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1.58,
+            "pecent_change": -25.95
         },
         "positions": [
             2
@@ -25349,7 +26495,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.59,
+            "pecent_change": -40.39
         },
         "positions": [
             2
@@ -25393,7 +26541,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.26,
+            "pecent_change": -7.98
         },
         "positions": [
             4
@@ -25437,7 +26587,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": -300
         },
         "positions": [
             2
@@ -25481,7 +26633,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": -100
         },
         "positions": [
             2
@@ -25525,7 +26679,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -25569,7 +26725,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3,
+            "pecent_change": -29
         },
         "positions": [
             3
@@ -25613,7 +26771,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.67,
+            "pecent_change": -27.25
         },
         "positions": [
             2
@@ -25658,7 +26818,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": -5
         },
         "positions": [
             3
@@ -25702,7 +26864,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.33,
+            "pecent_change": 20.12
         },
         "positions": [
             3
@@ -25746,7 +26910,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -25790,7 +26956,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.41,
+            "pecent_change": -18.77
         },
         "positions": [
             3
@@ -25834,7 +27002,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -25879,7 +27049,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.52,
+            "pecent_change": -28.57
         },
         "positions": [
             2
@@ -25923,7 +27095,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -25967,7 +27141,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 5,
+            "pecent_change": 350
         },
         "positions": [
             2
@@ -26011,7 +27187,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 2.56,
+            "pecent_change": -18.75
         },
         "positions": [
             4
@@ -26056,7 +27234,9 @@
             },
             "prices": {
                 "1": 8500000
-            }
+            },
+            "avg_points_2023": 6.38,
+            "pecent_change": 4.39
         },
         "positions": [
             3
@@ -26100,7 +27280,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 6.85,
+            "pecent_change": 10.07
         },
         "positions": [
             4
@@ -26144,7 +27326,9 @@
             },
             "prices": {
                 "1": 8500000
-            }
+            },
+            "avg_points_2023": 5.11,
+            "pecent_change": 2.74
         },
         "positions": [
             4
@@ -26188,7 +27372,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 4.6,
+            "pecent_change": -73.91
         },
         "positions": [
             1
@@ -26232,7 +27418,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 2.68,
+            "pecent_change": -9.33
         },
         "positions": [
             4
@@ -26276,7 +27464,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 4.1,
+            "pecent_change": -7.32
         },
         "positions": [
             2
@@ -26320,7 +27510,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.32,
+            "pecent_change": -24.1
         },
         "positions": [
             3
@@ -26364,7 +27556,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -26408,7 +27602,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 6.22,
+            "pecent_change": -19.13
         },
         "positions": [
             2
@@ -26452,7 +27648,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1.29,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -26496,7 +27694,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": 14.29
         },
         "positions": [
             4
@@ -26540,7 +27740,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -26584,7 +27786,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.15,
+            "pecent_change": -24.65
         },
         "positions": [
             2
@@ -26628,7 +27832,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             1
@@ -26672,7 +27878,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 2.46,
+            "pecent_change": -53.25
         },
         "positions": [
             2
@@ -26716,7 +27924,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -26760,7 +27970,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             2
@@ -26805,7 +28017,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.17,
+            "pecent_change": -21.34
         },
         "positions": [
             2
@@ -26849,7 +28063,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -26893,7 +28109,9 @@
             },
             "prices": {
                 "1": 8500000
-            }
+            },
+            "avg_points_2023": 7.33,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -26937,7 +28155,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3,
+            "pecent_change": -100
         },
         "positions": [
             1
@@ -26981,7 +28201,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             4
@@ -27025,7 +28247,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.67,
+            "pecent_change": 6.54
         },
         "positions": [
             3
@@ -27069,7 +28293,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 4.5,
+            "pecent_change": -34.89
         },
         "positions": [
             3
@@ -27113,7 +28339,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 6.38,
+            "pecent_change": 3.92
         },
         "positions": [
             2
@@ -27157,7 +28385,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 1.71,
+            "pecent_change": -8.19
         },
         "positions": [
             3
@@ -27202,7 +28432,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 5.07,
+            "pecent_change": -12.43
         },
         "positions": [
             2
@@ -27246,7 +28478,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 2,
+            "pecent_change": 28
         },
         "positions": [
             4
@@ -27291,7 +28525,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             3
@@ -27335,7 +28571,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.62,
+            "pecent_change": -32.03
         },
         "positions": [
             2
@@ -27379,7 +28617,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -27423,7 +28663,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             3
@@ -27469,7 +28711,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.19,
+            "pecent_change": -100
         },
         "positions": [
             3
@@ -27513,7 +28757,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 5.42,
+            "pecent_change": -8.3
         },
         "positions": [
             3
@@ -27557,7 +28803,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -27601,7 +28849,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.61,
+            "pecent_change": -12.83
         },
         "positions": [
             2
@@ -27645,7 +28895,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 5,
+            "pecent_change": -7.4
         },
         "positions": [
             3
@@ -27689,7 +28941,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -27733,7 +28987,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 2.83,
+            "pecent_change": -100
         },
         "positions": [
             1
@@ -27777,7 +29033,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.09,
+            "pecent_change": -11.2
         },
         "positions": [
             2
@@ -27821,7 +29079,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 5.77,
+            "pecent_change": -12.31
         },
         "positions": [
             3
@@ -27865,7 +29125,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.67,
+            "pecent_change": 1.87
         },
         "positions": [
             3
@@ -27909,7 +29171,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.96,
+            "pecent_change": -10.1
         },
         "positions": [
             2
@@ -27953,7 +29217,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 4.96,
+            "pecent_change": -16.94
         },
         "positions": [
             2
@@ -27997,7 +29263,9 @@
             },
             "prices": {
                 "1": 8500000
-            }
+            },
+            "avg_points_2023": 6.1,
+            "pecent_change": -8.2
         },
         "positions": [
             4
@@ -28041,7 +29309,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.52,
+            "pecent_change": -29.55
         },
         "positions": [
             2
@@ -28085,7 +29355,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 800
         },
         "positions": [
             4
@@ -28129,7 +29401,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 4.25,
+            "pecent_change": -100
         },
         "positions": [
             4
@@ -28173,7 +29447,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": 6.29
         },
         "positions": [
             4
@@ -28218,7 +29494,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 6.47,
+            "pecent_change": -24.57
         },
         "positions": [
             3
@@ -28262,7 +29540,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.81,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -28306,7 +29586,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.81,
+            "pecent_change": -4.57
         },
         "positions": [
             3
@@ -28350,7 +29632,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.12,
+            "pecent_change": 10.68
         },
         "positions": [
             3
@@ -28394,7 +29678,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.62,
+            "pecent_change": 1.91
         },
         "positions": [
             4
@@ -28438,7 +29724,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1.88,
+            "pecent_change": -113.3
         },
         "positions": [
             2
@@ -28482,7 +29770,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.43,
+            "pecent_change": -30.86
         },
         "positions": [
             3
@@ -28526,7 +29816,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 450
         },
         "positions": [
             2
@@ -28570,7 +29862,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.62,
+            "pecent_change": 12.12
         },
         "positions": [
             4
@@ -28614,7 +29908,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.94,
+            "pecent_change": -20.05
         },
         "positions": [
             3
@@ -28658,7 +29954,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4.48,
+            "pecent_change": -29.46
         },
         "positions": [
             3
@@ -28702,7 +30000,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 4.86,
+            "pecent_change": -47.12
         },
         "positions": [
             3
@@ -28746,7 +30046,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -28790,7 +30092,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": -100
         },
         "positions": [
             2
@@ -28834,7 +30138,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -28880,7 +30186,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -28924,7 +30232,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.77,
+            "pecent_change": -27.59
         },
         "positions": [
             2
@@ -28968,7 +30278,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 5.33,
+            "pecent_change": 12.57
         },
         "positions": [
             3
@@ -29012,7 +30324,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 2.5,
+            "pecent_change": -12.8
         },
         "positions": [
             3
@@ -29056,7 +30370,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.58,
+            "pecent_change": -25.98
         },
         "positions": [
             1
@@ -29100,7 +30416,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -29144,7 +30462,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.6,
+            "pecent_change": -3.85
         },
         "positions": [
             4
@@ -29188,7 +30508,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -29233,7 +30555,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2,
+            "pecent_change": -100
         },
         "positions": [
             3
@@ -29277,7 +30601,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -29321,7 +30647,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.71,
+            "pecent_change": -10.33
         },
         "positions": [
             3
@@ -29366,7 +30694,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 2.37,
+            "pecent_change": 8.02
         },
         "positions": [
             3
@@ -29410,7 +30740,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.5,
+            "pecent_change": -3.11
         },
         "positions": [
             3
@@ -29454,7 +30786,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 1.71,
+            "pecent_change": -2.34
         },
         "positions": [
             4
@@ -29499,7 +30833,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.6,
+            "pecent_change": -20.28
         },
         "positions": [
             2
@@ -29543,7 +30879,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -29588,7 +30926,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -29632,7 +30972,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.91,
+            "pecent_change": -24.64
         },
         "positions": [
             1
@@ -29676,7 +31018,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 2.67,
+            "pecent_change": -4.12
         },
         "positions": [
             3
@@ -29721,7 +31065,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -29765,7 +31111,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -29809,7 +31157,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.17,
+            "pecent_change": -15.67
         },
         "positions": [
             2
@@ -29853,7 +31203,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 4.08,
+            "pecent_change": -26.47
         },
         "positions": [
             2
@@ -29897,7 +31249,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -29941,7 +31295,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.84,
+            "pecent_change": -32.29
         },
         "positions": [
             2
@@ -29985,7 +31341,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.13,
+            "pecent_change": -23.96
         },
         "positions": [
             2
@@ -30029,7 +31387,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -30073,7 +31433,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.47,
+            "pecent_change": -18.79
         },
         "positions": [
             1
@@ -30117,7 +31479,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 5,
+            "pecent_change": -70
         },
         "positions": [
             1
@@ -30161,7 +31525,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -30205,7 +31571,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.12,
+            "pecent_change": -13.67
         },
         "positions": [
             2
@@ -30249,7 +31617,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -30294,7 +31664,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -30338,7 +31710,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4,
+            "pecent_change": -13
         },
         "positions": [
             3
@@ -30383,7 +31757,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 1.84,
+            "pecent_change": -21.74
         },
         "positions": [
             3
@@ -30427,7 +31803,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.41,
+            "pecent_change": -21.32
         },
         "positions": [
             1
@@ -30471,7 +31849,9 @@
             },
             "prices": {
                 "1": 9000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -30515,7 +31895,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2,
+            "pecent_change": -7
         },
         "positions": [
             3
@@ -30559,7 +31941,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -30603,7 +31987,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -30648,7 +32034,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 1.5,
+            "pecent_change": 25.33
         },
         "positions": [
             4
@@ -30692,7 +32080,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.35,
+            "pecent_change": -16.09
         },
         "positions": [
             2
@@ -30736,7 +32126,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.12,
+            "pecent_change": -14.56
         },
         "positions": [
             1
@@ -30780,7 +32172,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             2
@@ -30824,7 +32218,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 4.65,
+            "pecent_change": -20.22
         },
         "positions": [
             2
@@ -30868,7 +32264,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 9,
+            "pecent_change": -111.11
         },
         "positions": [
             1
@@ -30912,7 +32310,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.5,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -30956,7 +32356,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.8,
+            "pecent_change": -28.95
         },
         "positions": [
             2
@@ -31000,7 +32402,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 3.48,
+            "pecent_change": -3.16
         },
         "positions": [
             3
@@ -31044,7 +32448,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 2.96,
+            "pecent_change": -33.78
         },
         "positions": [
             2
@@ -31088,7 +32494,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.38,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -31132,7 +32540,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -96
         },
         "positions": [
             4
@@ -31176,7 +32586,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -31220,7 +32632,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 5.03,
+            "pecent_change": -4.77
         },
         "positions": [
             3
@@ -31264,7 +32678,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 0.84,
+            "pecent_change": 13.1
         },
         "positions": [
             3
@@ -31308,7 +32724,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 2.4,
+            "pecent_change": -5.42
         },
         "positions": [
             2
@@ -31352,7 +32770,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -31396,7 +32816,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0.78,
+            "pecent_change": -142.31
         },
         "positions": [
             2
@@ -31440,7 +32862,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.08,
+            "pecent_change": -16.67
         },
         "positions": [
             3
@@ -31485,7 +32909,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 6.26,
+            "pecent_change": -14.86
         },
         "positions": [
             2
@@ -31529,7 +32955,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 4.32,
+            "pecent_change": -25.69
         },
         "positions": [
             2
@@ -31573,7 +33001,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -31617,7 +33047,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 1.92,
+            "pecent_change": 8.33
         },
         "positions": [
             3
@@ -31661,7 +33093,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 6.23,
+            "pecent_change": 6.42
         },
         "positions": [
             3
@@ -31705,7 +33139,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             2
@@ -31749,7 +33185,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.71,
+            "pecent_change": 0
         },
         "positions": [
             4
@@ -31793,7 +33231,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 3.13,
+            "pecent_change": -11.5
         },
         "positions": [
             3
@@ -31837,7 +33277,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             1
@@ -31881,7 +33323,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.6,
+            "pecent_change": -20.63
         },
         "positions": [
             3
@@ -31925,7 +33369,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -31969,7 +33415,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.71,
+            "pecent_change": -26.95
         },
         "positions": [
             2
@@ -32013,7 +33461,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.27,
+            "pecent_change": -12.54
         },
         "positions": [
             2
@@ -32057,7 +33507,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 1.71,
+            "pecent_change": -11.11
         },
         "positions": [
             4
@@ -32101,7 +33553,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 4.09,
+            "pecent_change": 7.33
         },
         "positions": [
             4
@@ -32145,7 +33599,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 5.5,
+            "pecent_change": -24.91
         },
         "positions": [
             2
@@ -32189,7 +33645,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -32233,7 +33691,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 4.67,
+            "pecent_change": -22.48
         },
         "positions": [
             2
@@ -32277,7 +33737,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -32321,7 +33783,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 2.52,
+            "pecent_change": -29.37
         },
         "positions": [
             3
@@ -32365,7 +33829,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.05,
+            "pecent_change": -40.98
         },
         "positions": [
             2
@@ -32410,7 +33876,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -32455,7 +33923,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 2.16,
+            "pecent_change": 7.41
         },
         "positions": [
             4
@@ -32499,7 +33969,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             4
@@ -32543,7 +34015,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 2.95,
+            "pecent_change": -21.36
         },
         "positions": [
             3
@@ -32587,7 +34061,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.45,
+            "pecent_change": -6.09
         },
         "positions": [
             3
@@ -32631,7 +34107,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 4.27,
+            "pecent_change": -1.87
         },
         "positions": [
             3
@@ -32676,7 +34154,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.63,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -32720,7 +34200,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 5.25,
+            "pecent_change": -23.24
         },
         "positions": [
             2
@@ -32764,7 +34246,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 3.2,
+            "pecent_change": 50
         },
         "positions": [
             4
@@ -32808,7 +34292,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -32852,7 +34338,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 3.41,
+            "pecent_change": -12.02
         },
         "positions": [
             3
@@ -32897,7 +34385,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1,
+            "pecent_change": 50
         },
         "positions": [
             3
@@ -32941,7 +34431,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.43,
+            "pecent_change": -35.57
         },
         "positions": [
             2
@@ -32985,7 +34477,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 2.86,
+            "pecent_change": 8.74
         },
         "positions": [
             4
@@ -33029,7 +34523,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 6.71,
+            "pecent_change": -18.03
         },
         "positions": [
             2
@@ -33073,7 +34569,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.3,
+            "pecent_change": -20.47
         },
         "positions": [
             3
@@ -33118,7 +34616,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -33162,7 +34662,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.04,
+            "pecent_change": -25
         },
         "positions": [
             3
@@ -33207,7 +34709,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 1.33,
+            "pecent_change": -10.53
         },
         "positions": [
             2
@@ -33251,7 +34755,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 5.75,
+            "pecent_change": -39.13
         },
         "positions": [
             2
@@ -33295,7 +34801,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 2.61,
+            "pecent_change": -25.67
         },
         "positions": [
             3
@@ -33339,7 +34847,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             4
@@ -33383,7 +34893,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 2.83,
+            "pecent_change": -100
         },
         "positions": [
             1
@@ -33427,7 +34939,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.48,
+            "pecent_change": -16.07
         },
         "positions": [
             3
@@ -33471,7 +34985,9 @@
             },
             "prices": {
                 "1": 8000000
-            }
+            },
+            "avg_points_2023": 5.38,
+            "pecent_change": 7.99
         },
         "positions": [
             4
@@ -33515,7 +35031,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 4.47,
+            "pecent_change": -14.99
         },
         "positions": [
             2
@@ -33559,7 +35077,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.75,
+            "pecent_change": -18.93
         },
         "positions": [
             2
@@ -33603,7 +35123,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             2
@@ -33647,7 +35169,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4.5,
+            "pecent_change": -26
         },
         "positions": [
             3
@@ -33692,7 +35216,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 5.06,
+            "pecent_change": -19.76
         },
         "positions": [
             1
@@ -33736,7 +35262,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -33780,7 +35308,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             3
@@ -33824,7 +35354,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.11,
+            "pecent_change": -13.18
         },
         "positions": [
             3
@@ -33868,7 +35400,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 2.67,
+            "pecent_change": 4.12
         },
         "positions": [
             3
@@ -33912,7 +35446,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.38,
+            "pecent_change": 2.07
         },
         "positions": [
             4
@@ -33957,7 +35493,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -34001,7 +35539,9 @@
             },
             "prices": {
                 "1": 4000000
-            }
+            },
+            "avg_points_2023": 3.5,
+            "pecent_change": -100
         },
         "positions": [
             4
@@ -34045,7 +35585,9 @@
             },
             "prices": {
                 "1": 7500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -34089,7 +35631,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 1.47,
+            "pecent_change": 7.48
         },
         "positions": [
             4
@@ -34133,7 +35677,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 5.05,
+            "pecent_change": -18.61
         },
         "positions": [
             1
@@ -34177,7 +35723,9 @@
             },
             "prices": {
                 "1": 5000000
-            }
+            },
+            "avg_points_2023": 3.25,
+            "pecent_change": -34.46
         },
         "positions": [
             2
@@ -34222,7 +35770,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 1.75,
+            "pecent_change": -8.57
         },
         "positions": [
             3
@@ -34266,7 +35816,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.77,
+            "pecent_change": -9.28
         },
         "positions": [
             3
@@ -34310,7 +35862,9 @@
             },
             "prices": {
                 "1": 6000000
-            }
+            },
+            "avg_points_2023": 3.86,
+            "pecent_change": -38.08
         },
         "positions": [
             2
@@ -34355,7 +35909,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 4.1,
+            "pecent_change": 0
         },
         "positions": [
             2
@@ -34399,7 +35955,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 4.39,
+            "pecent_change": -17.77
         },
         "positions": [
             3
@@ -34443,7 +36001,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 0,
+            "pecent_change": null
         },
         "positions": [
             1
@@ -34487,7 +36047,9 @@
             },
             "prices": {
                 "1": 7000000
-            }
+            },
+            "avg_points_2023": 3.04,
+            "pecent_change": 5.59
         },
         "positions": [
             4
@@ -34532,7 +36094,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 2.9,
+            "pecent_change": -27.59
         },
         "positions": [
             2
@@ -34576,7 +36140,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3,
+            "pecent_change": -20
         },
         "positions": [
             2
@@ -34621,7 +36187,9 @@
             },
             "prices": {
                 "1": 6500000
-            }
+            },
+            "avg_points_2023": 6.17,
+            "pecent_change": -12.64
         },
         "positions": [
             2
@@ -34665,7 +36233,9 @@
             },
             "prices": {
                 "1": 4500000
-            }
+            },
+            "avg_points_2023": 1.2,
+            "pecent_change": 0
         },
         "positions": [
             3
@@ -34709,7 +36279,9 @@
             },
             "prices": {
                 "1": 5500000
-            }
+            },
+            "avg_points_2023": 3.6,
+            "pecent_change": -11.94
         },
         "positions": [
             2
